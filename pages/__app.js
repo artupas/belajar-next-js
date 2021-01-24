@@ -1,4 +1,4 @@
-import '../../nextjs-blog/pages/global.css'
+import './global.css'
 
 export default function App({ component, pageProps})
 {
